@@ -2,7 +2,7 @@
 This ia project requiring Machine Learing basic knowledge , python and its libraries numpy and opencv .
 
 UPPER HAND : 
-it can be helpful for any staus updation( here attendance) by the facial data taken as input and is faster and more accurate than the typical manual way.
+it can be helpful for any status updation( here attendance) by the facial data taken as input and is faster and more accurate than the typical manual way.
 
 WORKING :
 It works on python and its 2 libraries numpy and opencv ( do install these and import them while writing the code ).
