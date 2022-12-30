@@ -44,7 +44,7 @@ def face_cap():
         if cv2.waitKey(1)== 13 :
             break
             # break if the sample number is morethan 1000
-        elif sampleNum > 1000:
+        elif sampleNum > 150:
             break
 
     print("\nFACE DATA SAVED FOR {0} , ID : {1}".format(Name,ID))   
