@@ -1,4 +1,4 @@
-# Face Recognition for attendance updation
+# Attendance Updation via Face Recognition
 This is a project requiring Machine Learning basic knowledge , python and its libraries Numpy and Opencv .
 
 UPPER HAND : 
